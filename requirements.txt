@@ -1,0 +1,7 @@
+seaborn
+numpy
+matplotlib
+pillow
+scipy
+nltk
+cherrypy
